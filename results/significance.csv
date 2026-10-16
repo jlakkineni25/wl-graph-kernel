@@ -1,0 +1,6 @@
+Dataset,Variant,Accuracy,Diff vs baseline,Corrected t,p (corrected t-test),p (Wilcoxon),Verdict (alpha=0.05)
+MUTAG,WL (normalised),87.05,+1.04,0.40,0.691,0.552,not significant
+MUTAG,WL edge-label,87.05,+1.04,0.45,0.658,0.443,not significant
+MUTAG,WL weighted (lambda tuned),86.53,+0.53,0.21,0.834,0.700,not significant
+PROTEINS,WL (normalised),75.77,+1.23,1.01,0.321,0.013,not significant
+PROTEINS,WL weighted (lambda tuned),75.08,+0.54,0.38,0.710,0.349,not significant
